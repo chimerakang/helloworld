@@ -16,5 +16,6 @@ steps:
   - cat a.txt
   - echo $USERNAME > b.txt
   - cat b.txt
- 
+  - cp b.txt c.txt
+  - ls -l
   
