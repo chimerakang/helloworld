@@ -16,4 +16,5 @@ steps:
   - cat a.txt
   - echo $USERNAME > b.txt
   - cat b.txt
+  - ls -l
   
